@@ -1,1 +1,3 @@
-ZXhwb3J0IGZ1bmN0aW9uIFNhdmVUb0phbmUoKSB7CiAgICBjb25zb2xlLmxvZygnV29ya2luZ2pqamonKQp9
+export function SaveToJane() {
+    console.log('Workingjjjj')
+}

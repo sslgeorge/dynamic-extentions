@@ -1,3 +1,3 @@
 export function save(res) {
-    return res.send("MAMA WAKA")
+    return res.send("This is the charting SDK and it works")
 }

@@ -1,3 +1,3 @@
-export function SaveToJane() {
-    console.log("This is working")
+export function save(res) {
+    return res.send("MAMA WAKA")
 }

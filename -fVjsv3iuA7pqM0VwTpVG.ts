@@ -1,3 +1,3 @@
 export function save(res) {
-    return res.send("This is another version")
+    return res.send("we are destined for greatness")
 }
